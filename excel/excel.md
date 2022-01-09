@@ -6,3 +6,6 @@ https://corporatefinanceinstitute.com/resources/excel/study/excel-formulas-cheat
 
 # Examples
 https://www.excel-easy.com/examples.html
+
+# Datasets
+https://www.kaggle.com/c/titanic/data
